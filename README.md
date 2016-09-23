@@ -1,2 +1,2 @@
 # validator
-JS w=validator
+JS validator
